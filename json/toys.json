@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Bratz",
+        "info": "Is a plastic doll produced by the American toy company Mattel.",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 65,
+        "user_id": "647f1280bce50c7223c6856e"
+    },
+    {
+        "name": "Barbi",
+        "info": "Is a plastic doll produced by the American toy company Mattel.",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 50,
+        "user_id": "647f1280bce50c7223c6856e"
+    },
+    {
+        "name": "webkinz",
+        "info": "Webkinz is a stuffed animal franchise by the Canadian toy company Ganz",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 130,
+        "user_id": "647f1280bce50c7223c6856e"
+    },
+    {
+        "name": "Pu Hdov",
+        "info": "Winnie the Pooh is a children's book by British author Alan Alexander …",
+        "category": "Doll",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 80,
+        "user_id": "647f1280bce50c7223c6856e"
+    },
+    {
+        "name": "Tennis ball",
+        "info": "A tennis ball is a ball designed for the sport of tennis, dog love this toy.. ",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 15,
+        "user_id": "647f1280bce50c7223c68570"
+    },
+    {
+        "name": "bones toy",
+        "info": "The natural KONG Classic red rubber formula is created to be durable",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 70,
+        "user_id": "647f1280bce50c7223c68570"
+    },
+    {
+        "name": "Piglet",
+        "info": "a dog doll from the Invincible series ",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 130,
+        "user_id": "647f1280bce50c7223c68570"
+    },
+    {
+        "name": "frizbi",
+        "info": "A flying saucer or frisbee",
+        "category": "Toys 4 animals",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 100,
+        "user_id": "647f1280bce50c7223c68570"
+    },
+    {
+        "name": "Monopoly",
+        "info": "Monopoly is the classic fast-dealing property trading board game. ",
+        "category": "Board Game",
+        "img_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.or…",
+        "price": 150,
+        "user_id": "647f1280bce50c7223c68571"
+    },
+    {
+        "name": "Taky",
+        "info": "Taky is a card game developed by Israeli game inventor Haim Shafir.",
+        "category": "Board Game",
+        "img_url": "https://jerusalemtoys.co.il/Cat_490334_177.jpg",
+        "price": 150,
+        "user_id": "647f1280bce50c7223c68571"
+    },
+    {
+        "name": "Catan",
+        "info": "Catan is a famous thinking board game ,It presents the story of Catan's setllers",
+        "category": "Board Game",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-W6X3gUZUzB8dSSvHxUp6YfcDk6m6MMW0Pw&usqp=CAU",
+        "price": 400,
+        "user_id": "647f1280bce50c7223c68571"
+    },
+    {
+        "name": "Ratatat Cat",
+        "info": "A game involves memory, luck and thinking",
+        "category": "Board Game",
+        "img_url": "https://cdn.speedsize.com/586e3014-4f72-4d74-9f06-4443ccf316f5/https://www.amigo.co.il/wp-content/uploads/2022/07/204-1.jpg",
+        "price": 400,
+        "user_id": "647f1280bce50c7223c6856f"
+    }
+    
+]

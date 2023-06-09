@@ -1,0 +1,43 @@
+[
+    {
+        "fullName": {
+            "firstName": "Maor",
+            "lastName": "Gabay"
+        },
+        "email": "MaorGabay@gabay.com",
+        "password": "Maor31kd3Fg8"
+    },
+    {
+        "fullName": {
+            "firstName": "Adam",
+            "lastName": "First"
+        },
+        "email": "firstAdam@gmail.com",
+        "password": "12345678",
+        "role": "admin"
+    },
+    {
+        "fullName": {
+            "firstName": "Yoram",
+            "lastName": "Lo"
+        },
+        "email": "YoramLo@gmail.com",
+        "password": "56473yo7"
+    },
+    {
+        "fullName": {
+            "firstName": "Mali",
+            "lastName": "Shay"
+        },
+        "email": "shma6463@gmail.com",
+        "password": "shma6463"
+    },
+    {
+        "fullName": {
+            "firstName": "My",
+            "lastName": "Name"
+        },
+        "email": "myNameEmail@gmail.com",
+        "password": "pass1234"
+    }
+]
