@@ -1,11 +1,12 @@
 main{
     background-color: whitesmoke;
+    /* font-family: 'Tilt Prism', cursive; */
   }
   main .topPic {
     min-height: 300px;
     border-radius: 32px;
-    background-image: url(pexels-tim-mossholder-3643925.jpg);
-    font-family: "Pattaya", sans-serif;
+    background-image: url("images/lego.jpg");
+    font-family: 'Tilt Prism', cursive;
     box-shadow: 0px 10px 22px 0px #000000;
     background-position: center;
     background-size: cover;
