@@ -25,8 +25,8 @@ exports.createToken = (user_id, user_role) => {
 exports.validUser = (_reqBody) => {
     let joiSchema = Joi.object({
         fullName: Joi.object({
-            firstName: Joi.string().required(),
-            lastName: Joi.string().required()
+            firstName: Joi.string().min(2).max(100),
+            lastName: Joi.string().min(2).max(100)
           }).required(),
         email: Joi.string().min(2).max(99).email().required(),
         password: Joi.string().min(8).max(100).required(),
